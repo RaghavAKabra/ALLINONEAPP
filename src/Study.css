@@ -1,0 +1,31 @@
+.container{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    align-items: baseline;
+}
+.title{
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.grades{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid grey;
+    max-width: 60%;
+    border-radius: 50px;
+    box-shadow: 0.2rem 0.2rem 0.2rem #ecbfb6;
+}
+.subjects{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: left;
+    border: 2px solid grey;
+    max-width: 80%;
+  
+}
+.header1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

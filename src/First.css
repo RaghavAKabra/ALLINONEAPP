@@ -1,0 +1,37 @@
+#pdf1{
+    position: absolute;
+    right: 300px;
+    background-color: red;
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid white;
+    text-align: center;
+    align-items: left;
+}
+i{
+    font-size: medium;
+    padding-right: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.worksheetsevs button{
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+}
+.maths1 button{
+    position: absolute;
+    right: 300px;
+    background-color: red;
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid white;
+    text-align: center;
+    align-items: left;
+}
+.divii{
+    border: 5px solid grey;
+    border-radius: 15px;
+    max-width: max-content;
+}

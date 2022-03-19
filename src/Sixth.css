@@ -1,0 +1,19 @@
+.container3{
+    max-width: max-content;
+    border: 5px solid grey;
+    border-radius: 15px;
+}
+.pdf1{
+    position: absolute;
+   
+    background-color: red;
+
+    border-radius: 10px;
+    border: 1px solid white;
+    text-align: center;
+    align-items: left;
+    cursor: pointer;
+}
+i{
+    padding-left: 10px;
+}

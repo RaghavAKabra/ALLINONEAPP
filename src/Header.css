@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100&display=swap');
+.AppName{
+ color: white;
+font-size: 10vh;
+
+text-align: center;
+font-family: 'Smooch Sans';
+}
+.clock{
+ height: 50px;
+ width: 90px;
+ padding-top: 0%;
+background-color: green;
+border-radius: 20px;
+color: aliceblue;
+}
+.weather{
+    height: 50px;
+    width: 90px;
+    padding-top: 0%;
+   background-color: rgb(218, 214, 28);
+   border-radius: 20px;
+   color: aliceblue;
+   }
+   .book{
+    height: 50px;
+    width: 90px;
+    padding-top: 0%;
+   background-color: rgb(14, 202, 193);
+   border-radius: 20px;
+   color: aliceblue;
+   }
+   .study{
+    height: 50px;
+    width: 90px;
+    padding-top: 0%;
+   background-color: rgb(230, 133, 22);
+   border-radius: 20px;
+   color: aliceblue;
+   }
+   img{
+       height: 70px;
+   }
+   i{
+       color: aliceblue;
+       font-size: 4rem;
+       font-family: "Smooch Sans";
+   }
+   .we{
+       justify-content: space-evenly;
+height: 100px;
+       width: 160px;
+       display: flex ;
+       flex-direction: column;
+       align-items: center;
+       text-align: center;  
+       position: absolute;
+       right: 300px;
+       top: 30px;
+   }
